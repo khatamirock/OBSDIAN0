@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ebe46d829a58909e",
+    "id": "570b4d5a10bec5bd",
     "type": "split",
     "children": [
       {
-        "id": "6e7e5dad01e02b40",
+        "id": "1ba87318265045f8",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f3d790ac476c90",
+            "id": "1c7a802ca28c238c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2nd_local/seocn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "seocn"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5d025ed3a80710be",
+    "id": "3a3c4abdcdc2ef1c",
     "type": "split",
     "children": [
       {
-        "id": "7997619a6f27983e",
+        "id": "4a0c8f76503550a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1ead8e4a9d3e20ec",
+            "id": "6774d986fa269549",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "19e879630dc065e4",
+            "id": "b1027e2f138cc182",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "e0eaeb69bb5f24a2",
+            "id": "1ce004f3449c5d06",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.51190185546875
+    "width": 300
   },
   "right": {
-    "id": "b30281ac25f7d7e9",
+    "id": "38c7aab0ffae3728",
     "type": "split",
     "children": [
       {
-        "id": "b45e72ec4960cae6",
+        "id": "a64dbeccdcb616a3",
         "type": "tabs",
         "children": [
           {
-            "id": "82fe471931d5ee24",
+            "id": "6c6415abb66c4b58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "2nd_local/seocn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for seocn"
             }
           },
           {
-            "id": "99de7db408119db3",
+            "id": "225110bb1e7e0f06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "2nd_local/seocn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from seocn"
             }
           },
           {
-            "id": "3955d2ca1b13889a",
+            "id": "f2fe084b7c4e3bad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +134,15 @@
             }
           },
           {
-            "id": "917ef1a3eeef76f4",
+            "id": "936cd2e7f48f86cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "2nd_local/seocn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of seocn"
             }
           }
         ]
@@ -159,14 +159,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f0f3d790ac476c90",
+  "active": "1c7a802ca28c238c",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create a link.md"
+    "2nd_local/seocn.md"
   ]
 }
